@@ -1,10 +1,9 @@
+# 自己紹介
 - 👋 Hi, I’m @Hiroto0706
 - 👀 I’m interested in ...playing tennis,drowing picture
 - 🌱 I’m currently learning ...php,laravel
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Hiroto0706/Hiroto0706 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 私について
+TwitterとQiitaにて不定期ですが、つぶやきと記事の投稿をしています〜！<br>
+Twitterのアカウント→@hiroto_kadota<br>
+QiitaのURL→https://qiita.com/Hiroto0706
