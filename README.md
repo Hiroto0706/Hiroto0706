@@ -2,7 +2,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=go,py,js,html,css)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vue,react,scss,jquery,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,nuxt,react,ts,scss)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=figma,googlecloud,vscode,vite,jquery)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=docker,postgres,mysql,git,github)](https://skillicons.dev)
 
