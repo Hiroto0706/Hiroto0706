@@ -1,6 +1,22 @@
-# 自己紹介
-- 👋 こんにちは！Hiroto0706です！　　　
-- 👀 趣味はテニス🎾、読書📚、絵を描くこと🖌です！！　　　
+## My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=go,py,js,ts,html,css,scss)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=vue,react,scss)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode)](https://skillicons.dev)
+
+## Status
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiroto0706&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Hiroto0706&theme=onedark&show_icons=ture" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hiroto0706&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 # 私について
