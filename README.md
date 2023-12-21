@@ -1,12 +1,11 @@
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=go,py,js,ts,html,css,scss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,py,js,html,css)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vue,react,scss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,react,scss,jquery,ts)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,postgres,mysql,git,github)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode)](https://skillicons.dev)
 
 ## Status
 
