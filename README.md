@@ -22,7 +22,7 @@
 
 # 私について
 TwitterとQiitaにて不定期ですが、つぶやきと記事の投稿をしています！<br>
-QiitaのURL→https://qiita.com/Hiroto0706<br>
+QiitaのURL→https://qiita.com/Maminumemonta0706<br>
 ZennのURL→https://zenn.dev/monta107<br>
 自己紹介サイト→https://mamimumemonta.netlify.app/<br>
 Twitter→https://twitter.com/hiroto_kadota<br>
