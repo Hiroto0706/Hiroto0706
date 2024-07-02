@@ -1,32 +1,18 @@
-## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=go,py,js,html,css)](https://skillicons.dev)
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Hiroto0706&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hiroto0706&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiroto0706&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![My Skills](https://skillicons.dev/icons?i=vue,nuxt,react,ts,scss)](https://skillicons.dev)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Hiroto0706&theme=merko&no-frame=false&no-bg=true&margin-w=4)
 
-[![My Skills](https://skillicons.dev/icons?i=figma,googlecloud,vscode,vite,jquery)](https://skillicons.dev)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Hiroto0706&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![My Skills](https://skillicons.dev/icons?i=docker,postgres,mysql,git,github)](https://skillicons.dev)
+---
+[![](https://visitcount.itsvg.in/api?id=Hiroto0706&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-## Status
-
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiroto0706&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Hiroto0706&theme=onedark&show_icons=ture" />
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hiroto0706&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-# 私について
-TwitterとQiitaにて不定期ですが、つぶやきと記事の投稿をしています！<br>
-QiitaのURL→https://qiita.com/Maminumemonta0706<br>
-ZennのURL→https://zenn.dev/monta107<br>
-自己紹介サイト→https://mamimumemonta.netlify.app/<br>
-Twitter→https://twitter.com/hiroto_kadota<br>
-Instagram（勉強垢）→https://www.instagram.com/benkyousukitsujimuzan/<br>
-
-## 成果物
-[もんたの森](https://montanomori.netlify.app/)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
