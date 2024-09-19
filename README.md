@@ -6,6 +6,8 @@ I'm a web engineer based in Tokyo, Japan. <br>
 - 📚 Avid reader<br>
 - 🧑‍💻 Passionate about creating things<br>
 - 🎨 Enjoy drawing in my free time<br>
+- 💪 Into body building<br>
+- 𰻝 Bianbian noodle is my favorite food<br>
 - 🎾 Tennis enthusiast<br><br>
 
 ### My Projects
